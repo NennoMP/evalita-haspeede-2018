@@ -9,5 +9,5 @@ More information about the considered models, as well as the methodology we empl
 
 
 
-
+## Bibliography
 [1] Bosco, C., Felice, D. O., Poletto, F., Sanguinetti, M., & Maurizio, T. (2018). Overview of the evalita 2018 hate speech detection task. In Ceur workshop proceedings (Vol. 2263, pp. 1-9). CEUR.
